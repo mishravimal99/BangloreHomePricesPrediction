@@ -5,6 +5,13 @@
     overflow: hidden;
 }
 
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-weight: bolder;
+    margin: 30px;
+}
+
 .switch-field input {
     position: absolute !important;
     clip: rect(0, 0, 0, 0);
